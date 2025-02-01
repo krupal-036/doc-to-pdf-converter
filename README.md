@@ -32,6 +32,7 @@ This project provides a simple web-based tool to convert DOCX files to PDF using
 
 ## Important Notes
 - Replace `YOUR_API_SECRET` in the JavaScript code with your actual ConvertAPI secret key.
+- Replace `YOUR_FONT_KEY` in the JavaScript code with your actual Font-Awesome font access key.
 - Ensure you have an active API subscription for ConvertAPI.
 - Modify `href="mailto:"` in the navbar to include a valid email address.
 
